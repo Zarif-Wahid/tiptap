@@ -3,6 +3,7 @@ import './styles.scss'
 import Code from '@tiptap/extension-code'
 import Document from '@tiptap/extension-document'
 import Link from '@tiptap/extension-link'
+import TextAlign from "@tiptap/extension-text-align"
 import Paragraph from '@tiptap/extension-paragraph'
 import Text from '@tiptap/extension-text'
 import { EditorContent, useEditor } from '@tiptap/react'
